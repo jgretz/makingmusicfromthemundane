@@ -1,6 +1,6 @@
 # Making Music from the Mundane
 
-Music is the universal language of mankind. It has the innate ability to connect deeply with the human psyche. What if you could leverage the power of music to better understand the domain of your daily life? Tables and graphs are the normal tools to explore data in software, but with creativity (and a little math), music can reveal patterns missed in the daily details of the mundane.
+Music is the universal language of mankind. It has the innate ability to connect deeply with the human psyche. Imagine if you could leverage the power of music to better understand the domain of your daily life? Tables and graphs are the normal tools to explore data in software, but with creativity (and a little math), music can reveal patterns missed in the daily details of the mundane.
 
 This session will dive into the captivating space of generative music by discussing its fundamental concepts. Using working examples, we will explore open data sets through their unique melodies. Finally, we'll demonstrate how javascript can empower you to create music with your data.
 
